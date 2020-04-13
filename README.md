@@ -1,2 +1,2 @@
-# google-meet-bomb-guard-PUBLIC
-Public files for Google Meet Bomb Guard
+# Google Meet Bomb Guard
+Information Coming Soon!
